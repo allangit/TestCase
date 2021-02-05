@@ -18,3 +18,4 @@ hta herramienta de triach
 gerrit
 
 investigar sobre el issue
+#comentando el codigo
